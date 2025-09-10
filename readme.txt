@@ -1,39 +1,52 @@
-# Aapka Sathi
----
+====================================
+          Aapka Sathi
+====================================
 
-## 📌 One-Page Summary of Prototype
-Aapka Sathi is a digital platform designed to empower street vendors and micro-entrepreneurs by bridging the gap between **government schemes, financial aid, legal support, and skill development**.  
-The prototype demonstrates how vendors can digitally register, access services, and receive assistance through a simple and user-friendly system.
+🌐 Website: https://aapkasathi.in
+💻 GitHub: https://github.com/aapkasathi/aapkasathi_Website
 
----
+------------------------------------
+ One-Page Summary of Prototype
+------------------------------------
+Aapka Sathi is a digital empowerment platform designed to support India's
+street vendors and micro-entrepreneurs. The platform bridges the gap between
+informal workers and essential resources by providing legal identity, financial
+access, skill training, digital tools, and guidance on government schemes.
 
-## 🚀 Key Features & Functionalities
-- **Vendor Registration:** Easy onboarding with Aadhaar, ID, and vending details.  
-- **Government Scheme Access:** Guidance for PM SVANidhi, Jan Dhan Yojana, e-Shram, and more.  
-- **Financial Support:** Loan facilitation, zero-balance bank accounts, and insurance assistance.  
-- **Legal & Compliance Help:** Support for CoV, FSSAI license, Hawker license, and labor IDs.  
-- **Skill Training (Chaupal 1.0):** Workshops on digital literacy, hygiene, finance, and customer engagement.  
-- **Helpdesk & Support:** Door-to-door assistance and emergency contact channels.
+Through its mobile-first approach, vendors can register, verify documents,
+apply for schemes, attend skill workshops, and access financial aid — all from
+a single platform. The solution fosters inclusivity, transparency, and dignity,
+while creating an ecosystem for sustainable livelihood growth.
 
----
+------------------------------------
+ Key Features & Functionalities
+------------------------------------
+1. Vendor Registration & Digital Identity Creation
+2. Access to Policy & Government Schemes (PM SVANidhi, e-Shram, etc.)
+3. Skill Training Programs (e.g., Chaupal 1.0)
+4. Financial Aid Facilitation (loans, subsidies, zero-balance accounts)
+5. Legal & Compliance Support (CoV, FSSAI, licenses, permits)
+6. Vendor Profiling, Geo-tagging, and Support Services
+7. Helpdesk & Door-to-Door Assistance
 
-## 🎯 Core Problem Being Addressed
-Street vendors in India often lack **legal recognition, access to finance, awareness of government schemes, and digital literacy**.  
-This results in exclusion from formal systems, limited growth opportunities, and vulnerability during crises (e.g., COVID-19).  
-Aapka Sathi directly addresses these issues by providing **identity, inclusivity, and access to resources** in one platform.
+------------------------------------
+ Core Problem Being Addressed
+------------------------------------
+Street vendors often lack access to legal identity, financial inclusion,
+training, and awareness of government schemes. This limits their ability to
+sustain and grow their livelihoods. Aapka Sathi addresses these barriers by
+creating a one-stop digital solution that ensures recognition, empowerment,
+and access to opportunities.
 
----
+------------------------------------
+ Overview of Prototype/Idea
+------------------------------------
+The prototype demonstrates a vendor-friendly mobile application with modules
+for registration, document upload, scheme information, training schedules,
+geo-tagging, and real-time support. Screens include dashboard, vendor profile,
+scheme details, event listings, analytics, and helpdesk interface.
 
-## 📖 Clear Overview of Prototype/Idea
-1. Vendors **register digitally** and create a verified profile.  
-2. System provides access to **schemes, training programs, and licenses**.  
-3. Users receive **step-by-step support** through helpdesks and workshops.  
-4. The solution ensures vendors are **digitally included, financially secure, and legally compliant**, fostering long-term socio-economic growth.  
+This end-to-end solution redefines how street vendors can connect with
+government benefits, financial institutions, and skill development resources.
 
----
-
-## 📬 Contact
-Website: [https://aapkasathi.in](https://aapkasathi.in)  
-Email: aapkasathi.help@gmail.com  
-Phone: +91-9302619207
-
+====================================
