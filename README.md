@@ -129,19 +129,6 @@ All services adhere to the **Street Vendors Act (2014), FSSAI rules, and DPDP Ac
 
 ---
 
-## 📬 Contact & Support
-
-- **Email**: aapkasathi.help@gmail.com | contact@aapkasathi.in  
-- **Phone**: +91-9302619207 | +91-9752582010  
-- **Office Address**: Gincube, Moti Mahal, Gwalior Smart City Office, Madhya Pradesh – 474007  
-
----
-
-
-
-
-
-
 ## 📸 Platform Screenshots — 3×3 Grid
 
 <p align="center">
