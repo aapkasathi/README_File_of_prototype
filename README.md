@@ -89,6 +89,40 @@ All services adhere to the **Street Vendors Act (2014), FSSAI rules, and DPDP Ac
 
 ---
 
+prototype src:
+
+
+
+![IMG-20250910-WA0027](https://github.com/user-attachments/assets/83409e94-3d1a-48ab-9691-8f3f8595eaee)
+![IMG-20250910-WA0026](https://github.com/user-attachments/assets/42966f0b-1804-41f1-8701-39a34bc97082)
+![IMG-20250910-WA0025](https://github.com/user-attachments/assets/e31509f7-28e3-4fad-910d-cd112d0352db)
+![IMG-20250910-WA0024](https://github.com/user-attachments/assets/1644cdbb-e84d-45e0-8933-6ca4250be906)
+![IMG-20250910-WA0023](https://github.com/user-attachments/assets/3638eacf-b666-4984-bedb-5504c5642edc)
+![IMG-20250910-WA0022](https://github.com/user-attachments/assets/6a1b80f0-e3fa-4de7-8c24-ba8b36e5df55)
+![IMG-20250910-WA0021](https://github.com/user-attachments/assets/29215b5f-4034-4054-ab16-959e79b95f71)
+![IMG-20250910-WA0020](https://github.com/user-attachments/assets/1650c557-4a42-480f-ae18-932307f9bcd3)
+![IMG-20250910-WA0019](https://github.com/user-attachments/assets/b382db3b-3b3f-449c-abc2-023c158c2393)
+![IMG-20250910-WA0018](https://github.com/user-attachments/assets/a48653e3-8cd0-490c-8a1c-1d0ffe6d1461)
+![IMG-20250910-WA0017](https://github.com/user-attachments/assets/632ec737-e0d2-4317-8c70-ad2006a9b9b5)
+![IMG-20250910-WA0016](https://github.com/user-attachments/assets/c904df95-bb0c-4fde-b2b8-68acfd361e47)
+![IMG-20250910-WA0015](https://github.com/user-attachments/assets/45d29931-e7f6-43fb-92e5-38aaad31da98)
+![IMG-20250910-WA0014](https://github.com/user-attachments/assets/55bbcdcc-2426-4546-80b5-ea69de21af71)
+![IMG-20250910-WA0030](https://github.com/user-attachments/assets/dc18754b-fa52-47da-9447-fe39899b8ea5)
+![IMG-20250910-WA0029](https://github.com/user-attachments/assets/21718d10-ba23-4523-bb2e-8c5e4d14c056)
+![IMG-20250910-WA0028](https://github.com/user-attachments/assets/8f7bf5cb-1f00-4a3b-81c5-e2457f3a7134)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📸 Platform Screenshots — 3×3 Grid
 
 <p align="center">
