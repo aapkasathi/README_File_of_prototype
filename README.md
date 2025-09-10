@@ -105,7 +105,3 @@ All services adhere to the **Street Vendors Act (2014), FSSAI rules, and DPDP Ac
 4. Submit a pull request. We'll review and merge soon!  
 
 ---
-
-## 📖 License
-
-This project is licensed under the **MIT License** (or specify your preferred license).  
